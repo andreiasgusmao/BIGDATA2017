@@ -1,2 +1,2 @@
 # BIGDATA2017
-Repositório para Disciplina Mineração de Dados com BigData - 2017
+Repositório para Disciplina Mineração na Web com BigData - Doutorado UFABC 2017
